@@ -4,7 +4,7 @@ permalink: /condiciones/
 ---
 # Condiciones del Servicio de OmniTutor
 
-**Versión 2.0 · Última actualización: 10 de julio de 2026**
+**Versión 2.1 · Última actualización: 19 de julio de 2026**
 
 ## 1. Quiénes somos y objeto
 
@@ -25,8 +25,8 @@ Al crear una cuenta o usar la App aceptas estas Condiciones y la [Política de P
 
 - Importas documentos (PDF, DOCX o imágenes) y la App los procesa para crear un índice de búsqueda, una guía de estudio, un chat que responde citando tu material y cuestionarios.
 - **Modo Privado (por defecto):** todo el procesamiento y la generación de IA ocurren en tu dispositivo con los modelos de Apple. Tu contenido no sale de tu dispositivo.
-- **Modo Máxima calidad (nube):** cuando esté disponible y solo si lo eliges expresamente para un curso, parte del procesamiento se realizará en servidores en la nube para obtener resultados más completos. El modo aplicable se indica siempre en cada curso.
-- Algunas funciones de IA requieren un dispositivo compatible con Apple Intelligence y una versión reciente de iOS; en dispositivos no compatibles la App ofrece alternativas más sencillas. Estudiar funciona sin conexión; crear un curso puede requerir conexión.
+- **Generación en la nube (OmniTutor Pro):** las funciones de generación en la nube se usan solo si eres suscriptor Pro y (a) eliges expresamente el modo *Máxima calidad* para un curso, o (b) tu dispositivo no dispone de Apple Intelligence. En esos casos, parte del procesamiento se realiza en servidores en la nube (a través de nuestro proveedor de IA) para obtener resultados de mayor calidad, conforme a la [Política de Privacidad](/omnitutor-legal/privacidad/). El modo aplicable se indica siempre en cada curso y el plan gratuito no usa la nube.
+- Algunas funciones de IA en local requieren un dispositivo compatible con Apple Intelligence y una versión reciente de iOS; en dispositivos no compatibles la App ofrece la generación en la nube (si eres Pro) o alternativas locales más sencillas. Estudiar funciona sin conexión; crear un curso y usar las funciones en la nube requieren conexión.
 
 ## 4. Tu cuenta
 
