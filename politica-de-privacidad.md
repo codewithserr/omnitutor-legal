@@ -4,7 +4,7 @@ permalink: /privacidad/
 ---
 # Política de Privacidad de OmniTutor
 
-**Versión 3.0 · Última actualización: 31 de julio de 2026**
+**Versión 3.1 · Última actualización: 16 de agosto de 2026**
 
 ## 1. Quiénes somos (Responsable del tratamiento)
 
@@ -19,7 +19,7 @@ Esta Política describe cómo tratamos tus datos cuando usas la aplicación Omni
 
 ## 2. Resumen: qué se queda en tu dispositivo y qué sale de él
 
-- **Tus archivos no salen de tu dispositivo.** La lectura de tus documentos, su troceado, la creación del índice de búsqueda, las búsquedas que haces sobre él y la construcción de la guía de estudio ocurren íntegramente en tu iPhone o iPad. Nunca subimos tus ficheros a ningún servidor. Lo que no sale es **el archivo**: su **nombre** sí, y lo hace por dos vías —acompaña a cada apartado de la guía que sincronizamos (sección 3.2) y acompaña también, junto con el **número de página**, a cada fragmento que enviamos para generar una respuesta del tutor (sección 5)—. Si el nombre de un fichero revela algo que prefieres no compartir, renómbralo antes de importarlo.
+- **Tus archivos no salen de tu dispositivo.** La lectura de tus documentos, su troceado, la creación del índice de búsqueda, las búsquedas que haces sobre él y la construcción de la guía de estudio ocurren íntegramente en tu iPhone o iPad. Nunca subimos tus ficheros a ningún servidor. Lo que no sale es **el archivo**: su **nombre** sí, y lo hace por dos vías —acompaña a cada apartado de la guía que sincronizamos (sección 3.2) y acompaña también, junto con el **número de página** y el **título del apartado** en el que se encuentra, a cada fragmento que enviamos para generar una respuesta del tutor (sección 5)—. Si el nombre de un fichero revela algo que prefieres no compartir, renómbralo antes de importarlo.
 - **Para generar contenido sí se envía texto a la nube.** Cuando escribes al tutor o creas un cuestionario, la App manda a nuestro servidor —y este a nuestro proveedor de inteligencia artificial— **una selección acotada del texto** de tu material: los fragmentos o extractos necesarios para esa petición concreta, nunca el documento entero ni el archivo original. El detalle está en la sección 5.
 - **El texto de la guía se guarda en nuestros servidores** (en la Unión Europea) para que puedas recuperar tus cursos en otros dispositivos. Tus documentos originales, tu índice de búsqueda, tus chats y tus cuestionarios no se sincronizan. El detalle está en la sección 3.2.
 - **No hay analítica de terceros, ni publicidad, ni rastreo entre apps o webs, y nunca vendemos tus datos.**
@@ -95,11 +95,11 @@ No tomamos decisiones automatizadas con efectos jurídicos sobre ti (art. 22 RGP
 **Qué se envía, y cuánto**, según lo que estés haciendo:
 
 - **Cuestionarios:** una selección del temario de tu curso, repartida entre todos sus apartados y recortada a unos **8 000** caracteres de contenido de los apartados —**15 000** si el curso está en modo **Máx. calidad**, función del plan Pro—, más los títulos de esos apartados, que no se recortan. En un curso con muchos apartados los títulos hacen que el envío real supere esa cifra; el techo absoluto del envío es de 40 000 caracteres. El recorte lo aplica también nuestro servidor antes de llamar al proveedor, de modo que el límite se cumple aunque la App pidiese más.
-- **Chat con el tutor:** solo los fragmentos que la búsqueda local ha identificado como relevantes para tu pregunta (como mucho seis pasajes cortos, con un tope conjunto de 16 000 caracteres), tu pregunta y los mensajes recientes de esa conversación. **Con cada fragmento viaja su procedencia:** el **nombre del archivo** del que se extrajo y, cuando se conoce, el **número de página**. Sirven para que el tutor pueda citarte de dónde sale cada afirmación, y salen del dispositivo igual que el fragmento. En los cuestionarios no se envía el nombre del archivo: solo los títulos y el texto de los apartados.
+- **Chat con el tutor:** solo los fragmentos que la búsqueda local ha identificado como relevantes para tu pregunta (como mucho seis pasajes cortos, con un tope conjunto de 16 000 caracteres), tu pregunta y los mensajes recientes de esa conversación. **Con cada fragmento viaja su procedencia:** el **nombre del archivo** del que se extrajo, el **número de página** cuando se conoce y el **título del apartado** en el que se encuentra (por ejemplo, `4.2.3. Navegación por estima`), que es texto de tu propio documento. En los archivos sin paginación real, como los `.docx`, el título del apartado es el único localizador posible. Sirven para que el tutor pueda citarte de dónde sale cada afirmación, y salen del dispositivo igual que el fragmento. En los cuestionarios no se envía el nombre del archivo: solo los títulos y el texto de los apartados.
 
 En ningún caso se envía el archivo original ni el documento completo.
 
-**Sin cuenta o sin conexión no se envía nada.** La generación en la nube exige una sesión iniciada y conexión a internet. Si falta cualquiera de las dos, la App no envía nada: el tutor responde solo con los pasajes que encuentra en tu propio material, sin redactar, y el cuestionario se limita a fichas construidas en el dispositivo a partir de tu temario (la App te avisa de que son un sustituto). Todo lo que ya tienes en el dispositivo se puede seguir consultando sin conexión.
+**Sin cuenta o sin conexión no se envía nada.** La generación en la nube exige una sesión iniciada y conexión a internet. Si falta cualquiera de las dos, la App no envía nada: el tutor no redacta una respuesta, sino que te muestra el pasaje que encuentra en tu propio material, señalado como tal y advirtiendo de que no ha podido conectar; y el cuestionario directamente no se genera, la App te dice por qué y conserva intacto el último que sí generaste, para que puedas repasarlo sin conexión. Todo lo que ya tienes en el dispositivo se puede seguir consultando sin conexión.
 
 **Tu contenido no se usa para entrenar modelos**, ni por nuestra parte ni por la del proveedor.
 
