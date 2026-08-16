@@ -4,7 +4,7 @@ permalink: /condiciones/
 ---
 # Condiciones del Servicio de OmniTutor
 
-**Versión 3.0 · Última actualización: 31 de julio de 2026**
+**Versión 3.1 · Última actualización: 16 de agosto de 2026**
 
 ## 1. Quiénes somos y objeto
 
@@ -27,7 +27,7 @@ Al crear una cuenta o usar la App aceptas estas Condiciones y la [Política de P
 - **Sincronización de tus cursos:** para que puedas recuperar un curso en otro dispositivo o tras reinstalar la App, copiamos a nuestros servidores los datos del curso y **el texto de los apartados** de su guía, junto con **el nombre del archivo** del que procede cada uno. Tus documentos originales, tu índice de búsqueda, tus chats y tus cuestionarios **no se sincronizan**: se guardan en tu dispositivo y no los copiamos a nuestros servidores. Tu historial de chat se conserva **completo** solo en tu dispositivo; lo único que sale de él son **los mensajes recientes de esa conversación** cuando escribes al tutor, que viajan con tu pregunta para que el tutor tenga el hilo con el que responder. El detalle está en las secciones 3.2 y 5 de la [Política de Privacidad](/omnitutor-legal/privacidad/).
 - **En la nube:** para generar contenido nuevo —las respuestas del chat de tutoría y los cuestionarios— la App envía a nuestros servidores, y estos a nuestro proveedor de inteligencia artificial (Anthropic, modelo Claude), **una selección acotada del texto** de tu material: los fragmentos o extractos necesarios para esa petición concreta, nunca el documento entero ni el archivo original. Los límites exactos de ese envío figuran en la [Política de Privacidad](/omnitutor-legal/privacidad/).
 - **Máx. calidad:** cada curso funciona en modo estándar o en modo Máx. calidad, disponible en el **plan Pro**, que envía una **selección más amplia** de tu temario al generar cuestionarios para obtener preguntas mejor fundamentadas. El modo se elige al crear el curso, puedes cambiarlo después desde su guía y fijar el que se aplicará por defecto a los cursos nuevos desde Ajustes.
-- **Generar requiere cuenta y conexión a internet.** Si falta cualquiera de las dos, la App no envía nada: puedes seguir estudiando y repasando sin conexión todo lo que ya tienes en el dispositivo, el tutor responde solo con los pasajes que encuentra en tu propio material, sin redactar, y el cuestionario se limita a fichas construidas en el dispositivo a partir de tu temario (la App te avisa de que son un sustituto).
+- **Generar requiere cuenta y conexión a internet.** Si falta cualquiera de las dos, la App no envía nada: puedes seguir estudiando y repasando sin conexión todo lo que ya tienes en el dispositivo, el tutor no redacta una respuesta, sino que te muestra el pasaje que encuentra en tu propio material, señalado como tal y advirtiendo de que no ha podido conectar; y el cuestionario directamente no se genera, la App te dice por qué y conserva intacto el último que sí generaste.
 
 ## 4. Tu cuenta
 
@@ -58,7 +58,7 @@ Las respuestas del chat y los cuestionarios se generan mediante IA, y la guía d
 Lo que se mide es la **generación**: crear cursos e importar documentos no consume cupo, porque ocurre en tu dispositivo. Cada cuestionario que generas y cada mensaje que envías al tutor descuentan una unidad del cupo de tu plan.
 
 - **Prueba gratuita:** al registrarte dispones de una prueba **de por vida** de **3 cuestionarios** y **10 mensajes** de chat. No es un cupo mensual: se agota una sola vez y **no se renueva** ni se reinicia.
-- **Plus — 3,49 €/mes:** **25 cuestionarios** y **250 mensajes** de chat al mes.
+- **Plus — 3,99 €/mes:** **25 cuestionarios** y **250 mensajes** de chat al mes.
 - **Pro — 9,99 €/mes:** **60 cuestionarios** y **600 mensajes** de chat al mes, más el modo **Máx. calidad** (apartado 3).
 - **Al agotar el cupo** la App te lo indica y te ofrece mejorar de plan. Todo lo que ya has generado **se conserva** y puedes seguir estudiándolo sin límite; lo único que se detiene es generar contenido nuevo, hasta que mejores de plan o, si ya tienes un plan de pago, hasta el comienzo del **mes natural** siguiente: el cupo se reinicia el día 1 de cada mes, no en la fecha de renovación de tu suscripción.
 - **Máx. calidad sin el plan Pro:** si pides un cuestionario en Máx. calidad sin tener Pro, **no se rechaza** tu petición y **no se te cobra** nada adicional: el cuestionario se genera en **calidad estándar** y la App te lo indica en pantalla.
