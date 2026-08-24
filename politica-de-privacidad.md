@@ -31,7 +31,7 @@ Si creas una cuenta:
 - **Contadores de uso** (tabla `usage_counters`): cuántos cuestionarios y cuántos mensajes de chat has generado en el periodo, más el consumo agregado (tokens y coste estimado), para aplicar los cupos. **No contienen el contenido de tus preguntas ni de tus documentos.**
 - **Verificación de suscripción:** validamos tu recibo con Apple y guardamos identificador de transacción, producto, fecha de expiración, estado (activa, en periodo de gracia, expirada o revocada) y entorno (producción o pruebas). Las suscripciones las procesa la App Store: **no recibimos ni almacenamos datos de pago**.
 - **Aceptación legal** (tabla `legal_acceptances`): con sesión iniciada, la **versión** aceptada y la **fecha**, como prueba de tu consentimiento (art. 7.1 RGPD). **Como invitado no se envía nada.**
-- **Soporte:** si nos escribes, tu correo y el mensaje.
+- **Soporte:** si nos escribes, tu correo y el contenido del mensaje, que quedan en nuestro buzón (sección 5).
 
 **No tratamos** localización, contactos, fotos (más allá de los archivos que importas), micrófono, cámara, identificadores publicitarios, datos de navegación de terceros ni categorías especiales (art. 9 RGPD). No hay analítica de terceros, ni publicidad, ni rastreo entre apps o webs, ni perfilado.
 
@@ -64,7 +64,8 @@ Sin cuenta no podemos guardar tus cursos ni generar contenido. No tomamos decisi
 No vendemos ni cedemos tus datos. Solo intervienen:
 
 - **Supabase** (autenticación, base de datos de sincronización y servidor intermediario), encargado del tratamiento: aloja cuenta, datos de cursos —incluido el texto de los apartados—, contadores de uso y datos de conexión, en la **Unión Europea**, bajo contrato de encargo.
-- **Apple** (App Store, compras integradas, Sign in with Apple) y **Google** (solo si inicias sesión con Google): responsables independientes, según sus propias políticas.
+- **Apple** (App Store, compras integradas, Sign in with Apple) y **Google** (si inicias sesión con Google): responsables independientes, según sus propias políticas.
+- **Correo electrónico:** lo que nos escribes a `privacidad@`, `legal@` o `soporte@omni-tutor.com` lo enruta **Cloudflare** (Email Routing) y se lee y responde en un buzón de **Google** (Gmail). El correo automático de tu cuenta —confirmación de registro, código de acceso, recuperación de contraseña— lo envía **Brevo** (Francia), que recibe tu dirección y el contenido de ese mensaje.
 - **Anthropic** (proveedor del modelo de IA Claude), encargado del tratamiento:
   - **Qué recibe:** solo el texto de cada petición según la sección 3 y, en el chat, la procedencia de cada fragmento. No le enviamos tu nombre, tu correo, tu identificador ni tus archivos: **ningún dato de tu cuenta viaja con la petición**.
   - **Cuánto lo conserva:** borra entradas y salidas en **30 días**.
@@ -77,7 +78,9 @@ Comunicaremos datos a las autoridades competentes cuando una obligación legal l
 
 Tu cuenta, tus cursos y los contadores de uso están en servidores de la **Unión Europea**. El responsable opera desde **Suiza**, país con decisión de adecuación de la Comisión Europea.
 
-**La generación se procesa fuera del Espacio Económico Europeo**, porque el proveedor de IA opera desde Estados Unidos. La transferencia se ampara en las **cláusulas contractuales tipo** de la Comisión Europea y, cuando resulte aplicable al proveedor, en el marco de adecuación UE-EE. UU., con las medidas complementarias correspondientes. Puedes pedirnos información sobre esas garantías.
+**La generación se procesa fuera del Espacio Económico Europeo**, porque el proveedor de IA opera desde Estados Unidos. La transferencia se ampara en las **cláusulas contractuales tipo** de la Comisión Europea y, cuando resulte aplicable al proveedor, en el marco de adecuación UE-EE. UU., con las medidas complementarias correspondientes.
+
+**El correo también sale del EEE:** el enrutado (Cloudflare) y el buzón donde lo leemos (Google) son proveedores estadounidenses, amparados en el marco de adecuación UE-EE. UU. El correo automático de tu cuenta lo envía Brevo desde la **Unión Europea**. Puedes pedirnos información sobre estas garantías.
 
 ## 7. Conservación
 
