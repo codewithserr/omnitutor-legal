@@ -66,7 +66,7 @@ Prestamos el servicio con diligencia profesional, pero no garantizamos disponibi
 
 La App se distribuye a través del App Store. Reconoces y aceptas que:
 
-- Estas Condiciones se celebran entre tú y el Titular, no con Apple. **Apple no es responsable de la App ni de su contenido**, ni de prestar mantenimiento o soporte (lo prestamos nosotros en legal@omni-tutor.com).
+- Estas Condiciones se celebran entre tú y el Titular, no con Apple. **Apple no es responsable de la App ni de su contenido**, ni de prestar mantenimiento o soporte (lo prestamos nosotros en soporte@omni-tutor.com).
 - Si la App no se ajusta a una garantía aplicable, podrás notificarlo a Apple, que te reembolsará el precio de compra si lo hubiera; en la máxima medida permitida por la ley, Apple no tendrá otra obligación de garantía.
 - Apple no atiende reclamaciones tuyas o de terceros relativas a la App o a su posesión y uso, incluidas las de responsabilidad por productos, incumplimiento de requisitos legales o regulatorios, protección de consumidores, privacidad e infracción de propiedad intelectual.
 - Declaras que no te encuentras en un país sujeto a embargo del Gobierno de EE. UU. ni designado como país que "apoya el terrorismo", y que no figuras en ninguna lista de partes restringidas o prohibidas del Gobierno de EE. UU.
