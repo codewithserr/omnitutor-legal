@@ -22,7 +22,7 @@ OmniTutor crea cursos a partir de tus propios documentos: la guía de estudio se
 
 ## 3. Tu cuenta
 
-Para guardar cursos, sincronizar progreso y generar contenido necesitas una cuenta (correo y contraseña, Apple o Google). Facilita datos veraces, mantén tus credenciales confidenciales y avísanos de cualquier uso no autorizado: eres responsable de la actividad realizada con ella. Puedes **eliminar tu cuenta en cualquier momento desde Ajustes**; es permanente y borra tus datos conforme a la Política de Privacidad.
+Para guardar cursos, sincronizar progreso y generar contenido necesitas una cuenta (correo y contraseña, o Apple). Facilita datos veraces, mantén tus credenciales confidenciales y avísanos de cualquier uso no autorizado: eres responsable de la actividad realizada con ella. Puedes **eliminar tu cuenta en cualquier momento desde Ajustes**; es permanente y borra tus datos conforme a la Política de Privacidad.
 
 ## 4. Licencia, propiedad intelectual y tus contenidos
 
