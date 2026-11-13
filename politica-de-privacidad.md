@@ -4,7 +4,7 @@ permalink: /privacidad/
 ---
 # Política de Privacidad de OmniTutor
 
-**Versión 3.2 · Última actualización: 17 de agosto de 2026**
+**Versión 3.3 · Última actualización: 11 de noviembre de 2026**
 
 Cómo tratamos tus datos cuando usas la aplicación OmniTutor para iOS (la "App"), conforme al Reglamento (UE) 2016/679 ("RGPD") y a la Ley Orgánica 3/2018 ("LOPDGDD"). El responsable se identifica al final. Privacidad y ejercicio de derechos: **privacidad@omni-tutor.com**.
 
@@ -33,7 +33,9 @@ Si creas una cuenta:
 - **Aceptación legal** (tabla `legal_acceptances`): con sesión iniciada, la **versión** aceptada y la **fecha**, como prueba de tu consentimiento (art. 7.1 RGPD). **Como invitado no se envía nada.**
 - **Soporte:** si nos escribes, tu correo y el contenido del mensaje, que quedan en nuestro buzón (sección 5).
 
-**No tratamos** localización, contactos, fotos (más allá de los archivos que importas), micrófono, cámara, identificadores publicitarios, datos de navegación de terceros ni categorías especiales (art. 9 RGPD). No hay analítica de terceros, ni publicidad, ni rastreo entre apps o webs, ni perfilado.
+**Informes de error (solo si los activas).** Con o sin cuenta, si activas «Enviar informes de error» (al aceptar estos documentos o en Ajustes), cuando la App se cierra inesperadamente o falla una operación interna enviamos a nuestro servidor de errores un informe técnico: el punto del programa donde ocurrió, el tipo de fallo, la hora, el modelo de dispositivo, la versión de iOS y la de la App. **No incluye tu nombre, tu correo, ningún identificador de tu cuenta o de tu dispositivo ni el contenido de tus documentos, apuntes, chats, cuestionarios o nombres de archivo**, y no lo usamos para identificarte. Como toda conexión a Internet, el envío lleva la dirección IP de tu red; no la guardamos con el informe. Puedes desactivarlo en cualquier momento en Ajustes.
+
+**No tratamos** localización, contactos, fotos (más allá de los archivos que importas), micrófono, cámara, identificadores publicitarios, datos de navegación de terceros ni categorías especiales (art. 9 RGPD). No hay analítica de terceros, ni publicidad, ni rastreo entre apps o webs, ni perfilado. Solo enviamos informes de error técnicos si los activas (más arriba).
 
 ## 3. Procesamiento con inteligencia artificial
 
@@ -44,7 +46,7 @@ Si creas una cuenta:
 
 Nunca se envía el archivo original ni el documento completo, y **tu contenido no se usa para entrenar modelos**, ni por nuestra parte ni por la del proveedor.
 
-**Sin cuenta o sin conexión no se envía nada:** el tutor no redacta respuesta, te muestra el pasaje que encuentra en tu material señalado como tal y advirtiendo de que no ha podido conectar; el cuestionario no se genera, la App te dice por qué y conserva intacto el último que sí generaste. Lo que ya está en el dispositivo sigue consultable sin conexión.
+**Sin cuenta o sin conexión no se envía nada para generar** (salvo los informes de error, si los has activado; sección 2)**:** el tutor no redacta respuesta, te muestra el pasaje que encuentra en tu material señalado como tal y advirtiendo de que no ha podido conectar; el cuestionario no se genera, la App te dice por qué y conserva intacto el último que sí generaste. Lo que ya está en el dispositivo sigue consultable sin conexión.
 
 ## 4. Finalidades y bases jurídicas (art. 6 RGPD)
 
@@ -55,6 +57,7 @@ Nunca se envía el archivo original ni el documento completo, y **tu contenido n
 - **Atender consultas y derechos** — datos de soporte. Contrato u obligación legal (6.1.b, 6.1.c).
 - **Comunicarte cambios relevantes** — correo de la cuenta. Contrato (6.1.b).
 - **Seguridad y prevención de abusos** — dirección IP y agente de usuario de cada sesión, contadores de uso, límites de frecuencia. Interés legítimo (6.1.f).
+- **Detectar y corregir fallos de la App** — informes de error (sección 2). Consentimiento (6.1.a), que puedes retirar en Ajustes.
 - **Funciones opcionales** (p. ej. futuros recordatorios) — los datos estrictamente necesarios. Consentimiento (6.1.a), revocable.
 
 Sin cuenta no podemos guardar tus cursos ni generar contenido. No tomamos decisiones automatizadas con efectos jurídicos sobre ti (art. 22 RGPD): la IA genera material de estudio bajo tu control, no te evalúa.
@@ -72,6 +75,8 @@ No vendemos ni cedemos tus datos. Solo intervienen:
   - **Excepción de seguridad:** si sus sistemas automáticos de detección de abusos marcan un contenido, puede conservarlo hasta **dos años**.
   - **No entrena con esos datos.**
 
+- **Informes de error:** no se ceden a nadie. Se reciben en un servidor de errores propio (GlitchTip) alojado por **Hetzner Online GmbH** (Alemania), encargado del tratamiento del alojamiento.
+
 Comunicaremos datos a las autoridades competentes cuando una obligación legal lo exija.
 
 ## 6. Transferencias internacionales
@@ -80,7 +85,7 @@ Tu cuenta, tus cursos y los contadores de uso están en servidores de la **Unió
 
 **La generación se procesa fuera del Espacio Económico Europeo**, porque el proveedor de IA opera desde Estados Unidos. La transferencia se ampara en las **cláusulas contractuales tipo** de la Comisión Europea y, cuando resulte aplicable al proveedor, en el marco de adecuación UE-EE. UU., con las medidas complementarias correspondientes.
 
-**El correo también sale del EEE:** el enrutado (Cloudflare) y el buzón donde lo leemos (Google) son proveedores estadounidenses, amparados en el marco de adecuación UE-EE. UU. El correo automático de tu cuenta lo envía Brevo desde la **Unión Europea**. Puedes pedirnos información sobre estas garantías.
+**El correo también sale del EEE:** el enrutado (Cloudflare) y el buzón donde lo leemos (Google) son proveedores estadounidenses, amparados en el marco de adecuación UE-EE. UU. El correo automático de tu cuenta lo envía Brevo desde la **Unión Europea**. Puedes pedirnos información sobre estas garantías. Los informes de error no salen del Espacio Económico Europeo.
 
 ## 7. Conservación
 
@@ -90,6 +95,7 @@ Tu cuenta, tus cursos y los contadores de uso están en servidores de la **Unió
 - **Datos de conexión:** según los plazos de nuestro proveedor de autenticación, con la finalidad de seguridad de la sección 4.
 - **Texto enviado para generar:** no lo almacenamos; se usa y se descarta. En el proveedor de IA se borra en **30 días**, salvo marcado de seguridad (hasta **dos años**, sección 5).
 - **Soporte:** lo necesario para atenderte y los plazos de prescripción aplicables.
+- **Informes de error:** 30 días; después se eliminan automáticamente. Como no llevan ningún identificador tuyo, no podemos localizar los de una persona concreta (art. 11 RGPD); eliminar tu cuenta no los afecta porque no están asociados a ella.
 
 ## 8. Tus derechos
 
