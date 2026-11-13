@@ -4,7 +4,7 @@ permalink: /condiciones/
 ---
 # Condiciones del Servicio de OmniTutor
 
-**Versión 3.2 · Última actualización: 17 de agosto de 2026**
+**Versión 3.3 · Última actualización: 11 de noviembre de 2026**
 
 ## 1. Objeto y aceptación
 
